@@ -1,6 +1,6 @@
 # Anleitung: Twine Geschichte als Webseite hosten
 
-Beispiel: http://robertnickel.online/twine-to-server/
+Das Ziel dieser Anleitung ist, dass du deine Twine Geschichte mittels GitHub Pages als Webseite hosten kannst. Ein Beispiel findest du auf [http://robertnickel.online/twine-example/](http://robertnickel.online/twine-example/)
 
 1. Exportiere deine Geschichte aus Twine. Du hast jetzt eine HTML Datei und einige Bilder.
 2. Benenne die HTML Datei um in `index.html`
@@ -29,5 +29,7 @@ Beispiel: http://robertnickel.online/twine-to-server/
 8. Nun taucht oben ein blaues Feld auf, indem du deine URL findest.
 
 ![](pages_done.png) 
-Klicke darauf, um zu deiner Twine Geschichte auf deiner eigenen URL zu kommen. Du kannst diesen Link nun teilen. Die Geschichte ist dort immer verfügbar, bis du GitHub Pages wieder deaktivierst. 
+Warte eine Minute. Dann klicke darauf, um zu deiner Twine Geschichte auf deiner eigenen URL zu kommen. Du kannst diesen Link nun teilen. Die Geschichte ist dort immer verfügbar, bis du GitHub Pages wieder deaktivierst. 
+
+_Wenn du die Anleitung verbessern möchtest, kannst du gerne [einen Pull Request stellen](https://github.com/Robert-Nickel/twine-to-server-tutorial/compare)._
 
