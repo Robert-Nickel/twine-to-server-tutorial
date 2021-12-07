@@ -31,5 +31,5 @@ Das Ziel dieser Anleitung ist, dass du deine Twine Geschichte mittels GitHub Pag
 ![](pages_done.png) 
 Warte eine Minute. Dann klicke darauf, um zu deiner Twine Geschichte auf deiner eigenen URL zu kommen. Du kannst diesen Link nun teilen. Die Geschichte ist dort immer verfügbar, bis du GitHub Pages wieder deaktivierst. 
 
-_Wenn du die Anleitung verbessern möchtest, kannst du gerne [einen Pull Request stellen](https://github.com/Robert-Nickel/twine-to-server-tutorial/compare)._
+_Wenn du die Anleitung verbessern möchtest, kannst du gerne [einen Pull Request stellen](https://github.com/Robert-Nickel/twine-to-server-tutorial/pulls)._
 
