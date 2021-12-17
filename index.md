@@ -26,7 +26,7 @@ Das Ziel dieser Anleitung ist, dass du deine Twine Geschichte mittels GitHub Pag
     3. Als Source Branch wähle `main`
     ![](pages_source.png)
     4. Klicke `Save`
-8. Nun taucht oben ein blaues Feld auf, indem du deine URL findest.
+8. Nun taucht oben ein blaues Feld auf, in welchem du deine URL findest.
 
 ![](pages_done.png) 
 Warte eine Minute. Dann klicke darauf, um zu deiner Twine Geschichte auf deiner eigenen URL zu kommen. Du kannst diesen Link nun teilen. Die Geschichte ist dort immer verfügbar, bis du GitHub Pages wieder deaktivierst. 
